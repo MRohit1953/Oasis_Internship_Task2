@@ -108,7 +108,7 @@ a:-webkit-any-link {
 }
 @media only screen and (max-width: 1600px) {
     body {
-      margin: 0 50px;
+      margin: 0 10px;
     }
     .bio{
     max-width: 500px;
